@@ -22,8 +22,8 @@ mybatis-plus:
 aliyun:
   oss:
     endpoint: https://oss-cn-chengdu.aliyuncs.com
-    accessKeyId: LTAI5tHPkpvBZJrtsPeqoo4f
-    accessKeySecret: MSI5u3IYwuSGyHJ3lsD60QbJxrVVaw
+    accessKeyId: LTAI5tHPkpvBZJrts
+    accessKeySecret: MSI5u3IYwuSGyHJ3l
     bucketName: odentist-image-restore
 reggie:
   path: D:\img\
